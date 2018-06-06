@@ -2,8 +2,7 @@ ATM Simulator
 
 用C++编写一个模拟自动存取款机（ATM）程序，实现基本的存取款及转账功能。控制台界面，使用SQLite文件数据库来保存用户数据。
 
-开发环境
-操作系统：Linux Ubuntu 17.10
+开发环境  操作系统：Linux Ubuntu 17.10
 C++编译器：g++ 7.2 / clang++ 5
 数据库：SQLite 3
 依赖库：libsqlite3, libcrypto（用于计算SHA-256）
